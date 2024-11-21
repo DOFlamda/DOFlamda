@@ -1,0 +1,37 @@
+name: Update Image URL
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨运行
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # 确保不使用内建的凭证
+
+      - name: Update README
+        run: |
+          # 获取当前日期
+          DATE=$(date +'%Y%m%d')
+          # 使用sed命令更新README.md中的图片URL
+          sed -i "s/github-contribution-grid-snake.svg?new=[0-9]\+/github-contribution-grid-snake.svg?new=$DATE/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name '1321928757'
+          git config user.email '1321928757@qq.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m "自动更新图片URL缓存"
+          # 设置远程仓库的 URL，包括令牌
+          git remote set-url origin https://$GITHUB_TOKEN@github.com/1321928757/1321928757.git
+          # 推送更改
+          git push origin HEAD:main
+        env:
+          GIT_ASKPASS: echo
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
