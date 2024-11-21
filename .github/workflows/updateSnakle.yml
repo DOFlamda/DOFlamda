@@ -29,7 +29,7 @@ jobs:
           git add README.md
           git diff --staged --quiet || git commit -m "自动更新图片URL缓存"
           # 设置远程仓库的 URL，包括令牌
-          git remote set-url origin https://$GITHUB_TOKEN@github.com/1321928757/1321928757.git
+          git remote set-url origin https://$GITHUB_TOKEN@github.com/DOFlamda/DOFlamda.git
           # 推送更改
           git push origin HEAD:main
         env:
