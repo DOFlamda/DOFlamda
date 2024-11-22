@@ -13,7 +13,7 @@ Feel free to talk to me！
 I can use it to work...
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,github,pycharm,vscode,ps,pr,ai,ae,py,anaconda,r,java,vue,html,css,js,pytorch,tensorflow,terraform,qt,latex,mysql,flutter&perline=13" />
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,github,pycharm,vscode,ps,pr,ai,ae,py,anaconda,r,java,vue,html,css,js,pytorch,tensorflow,terraform,qt,latex,mysql,postgres，flutter&perline=13" />
   </a>
 </p>
 
