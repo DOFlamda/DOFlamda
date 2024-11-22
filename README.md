@@ -25,6 +25,6 @@ I can use it to work...
 <!-- for beauty  -->
 <div>&nbsp;</div>
 
-<!-- snacks -->
-<div align="center"><img src="https://raw.gitmirror.com/DOFlamda/action/output/github-contribution-grid-snake.svg?new=20241121" /></div>
+<!-- 贪吃蛇动图 -->
+<div align="center"><img src="https://raw.gitmirror.com/DOFlamda/DOFlamda/output/github-contribution-grid-snake.svg?new=20241121" /></div>
 <br/>  
