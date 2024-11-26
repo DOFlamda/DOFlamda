@@ -5,7 +5,7 @@ I’m Xu Zengbo, a collage student from China. I want to learn things and become
 
 ### Reach Me 💞️
 Feel free to talk to me！
-- 🛸 Homepage:[doflamda.github.io](https://doflamda.github.io/)
+- 🛸 Homepage:[xuzbo.icu](https://xuzbo.icu/)
 - 📫 Email:seaoxzb@gmail.com.
 - 💬 Wechat：XuZBo71
 
