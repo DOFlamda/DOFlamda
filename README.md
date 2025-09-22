@@ -1,11 +1,10 @@
 ### Hi There 👋
-I’m Xu Zengbo, a collage student from China. I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time. My motto is: Elegance, like Python.
+I’m Xu Zengbo. My motto is:Elegance, like Python.
 - 👀 I’m interested in Economic and Applied Statistics.
 - 🌱 I’m currently learning Artificial Intelligence, Algorithms & Programming.
 
 ### Reach Me 💞️
-Feel free to talk to me！
-- 🛸 Homepage:[xuzbo.icu](https://xuzbo.icu/)
+- 🛸 Homepage:[xuzbo.icu](http://xuzbo.icu/)
 - 📫 Email:seaoxzb@gmail.com.
 - 💬 Wechat：XuZBo71
 
