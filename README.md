@@ -1,14 +1,4 @@
-### Hi There 👋
-I’m Xu Zengbo. My motto is:Elegance, like Python.
-- 👀 I’m interested in Economic and Applied Statistics.
-- 🌱 I’m currently learning Artificial Intelligence, Algorithms & Programming.
-
-### Reach Me 💞️
-- 🛸 Homepage:[xuzbo.icu](http://xuzbo.icu/)
-- 📫 Email:seaoxzb@gmail.com.
-- 💬 Wechat：XuZBo71
-
-### My Skills 🔨
+Elegance, like Python.
 I can use it to work...
 <p align="center">
   <a href="https://skillicons.dev">
