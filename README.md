@@ -15,5 +15,5 @@ I can use it to work...
 <div>&nbsp;</div>
 
 <!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.gitmirror.com/DOFlamda/DOFlamda/output/github-contribution-grid-snake.svg?new=20260124" /></div>
+<div align="center"><img src="https://raw.gitmirror.com/DOFlamda/DOFlamda/output/github-contribution-grid-snake.svg?new=20260125" /></div>
 <br/>  
